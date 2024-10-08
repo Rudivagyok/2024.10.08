@@ -1,0 +1,5 @@
+{'nev': 'PC3', 'ipcim': '10.0.2.129', 'mac-cim': '0004.9A42.C245', 'interfesz': 'GigabitEthernet1/0'}
+{'nev': 'PC1', 'ipcim': '10.0.1.129', 'mac-cim': '00E0.A330.3359', 'interfesz': 'GigabitEthernet1/0'}
+{'nev': 'PC2', 'ipcim': '10.0.2.130', 'mac-cim': '0060.47C1.A4DB', 'interfesz': 'GigabitEthernet1/0'}
+{'nev': 'Admin', 'ipcim': '10.0.1.130', 'mac-cim': '0050.0FCE.B095', 'interfesz': 'GigabitEthernet1/0'}
+{'nev': 'Server', 'ipcim': '192.168.101.100', 'mac-cim': '000A.413D.D793', 'interfesz': 'GigabitEthernet1/0'}

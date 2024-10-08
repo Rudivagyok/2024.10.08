@@ -1,0 +1,15 @@
+{'iro': 'J.K. Rowling', 'cim': "Harry Potter and the Philosopher's Stone", 'datum': 1997, 'valami sorszam': '0-7475-3269-9', 'statusz': 'Olvasott'}
+{'iro': 'George Orwell', 'cim': '1984', 'datum': 1949, 'valami sorszam': '0-452-28423-6', 'statusz': 'Olvasatlan'}
+{'iro': 'J.R.R. Tolkien', 'cim': 'The Hobbit', 'datum': 1937, 'valami sorszam': '0-618-00221-9', 'statusz': 'Olvasott'}
+{'iro': 'F. Scott Fitzgerald', 'cim': 'The Great Gatsby', 'datum': 1925, 'valami sorszam': '0-7432-7356-7', 'statusz': 'Olvasatlan'}
+{'iro': 'Jane Austen', 'cim': 'Pride and Prejudice', 'datum': 1813, 'valami sorszam': '0-19-283355-X', 'statusz': 'Olvasott'}
+{'iro': 'Harper Lee', 'cim': 'To Kill a Mockingbird', 'datum': 1960, 'valami sorszam': '0-06-112008-1', 'statusz': 'Olvasott'}
+{'iro': 'Mark Twain', 'cim': 'The Adventures of Huckleberry Finn', 'datum': 1884, 'valami sorszam': '0-14-310732-1', 'statusz': 'Olvasatlan'}
+{'iro': 'Charles Dickens', 'cim': 'Great Expectations', 'datum': 1861, 'valami sorszam': '0-14-143956-4', 'statusz': 'Olvasott'}
+{'iro': 'Leo Tolstoy', 'cim': 'War and Peace', 'datum': 1869, 'valami sorszam': '0-19-926794-4', 'statusz': 'Olvasatlan'}
+{'iro': 'Ernest Hemingway', 'cim': 'The Old Man and the Sea', 'datum': 1952, 'valami sorszam': '0-684-80122-1', 'statusz': 'Olvasott'}
+{'iro': 'William Shakespeare', 'cim': 'Hamlet', 'datum': 1603, 'valami sorszam': '978-0521618748', 'statusz': 'Olvasatlan'}
+{'iro': 'Agatha Christie', 'cim': 'Murder on the Orient Express', 'datum': 1934, 'valami sorszam': '0-000-72825-6', 'statusz': 'Olvasott'}
+{'iro': 'Louisa May Alcott', 'cim': 'Little Women', 'datum': 1868, 'valami sorszam': '0-451-52994-6', 'statusz': 'Olvasatlan'}
+{'iro': 'Charlotte Bront', 'cim': 'Jane Eyre', 'datum': 1847, 'valami sorszam': '0-14-144114-3', 'statusz': 'Olvasott'}
+{'iro': 'Dan Brown', 'cim': 'The Da Vinci Code', 'datum': 2003, 'valami sorszam': '0-385-50420-9', 'statusz': 'Olvasatlan'}
